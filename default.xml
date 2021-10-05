@@ -1093,5 +1093,5 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <include name="aosp-remove.xml" />
-  <include name="aosp-slayer.xml" />
+  <include name="repos.xml" />
 </manifest>
